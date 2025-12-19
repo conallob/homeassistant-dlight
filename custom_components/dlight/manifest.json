@@ -1,0 +1,12 @@
+{
+  "domain": "dlight",
+  "name": "dLight",
+  "codeowners": ["@conallob"],
+  "config_flow": true,
+  "documentation": "https://github.com/conallob/homeassistant-dlight",
+  "issue_tracker": "https://github.com/conallob/homeassistant-dlight/issues",
+  "requirements": [],
+  "dependencies": [],
+  "iot_class": "local_polling",
+  "version": "2.0.0"
+}
